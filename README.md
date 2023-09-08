@@ -10,8 +10,8 @@ MILESTONE 1: Iniziamo implementando il programma senza alcuna estetica: usando e
 MILESTONE 2: Solo una volta che il milestone 1 sarà completo e funzionante allora realizzeremo un form in pagina in cui l’utente potrà inserire i dati e visualizzare il calcolo finale con il prezzo. Il recap dei dati e l’output del prezzo finale, andranno quindi stampati in pagina (il prezzo dovrà essere formattato con massimo due decimali, per indicare i centesimi sul prezzo). Questo richiederà un minimo di ricerca.
 Nota: Se non vi sentite particolarmente creativi, questa potrebbe essere un’implementazione da seguire per il secondo milestone. Potete scegliere di implementare una soluzione completamente diversa oppure simile, ma in ogni caso cercate di farla vostra.
 
-1- chiedere al pesseggero quanti chiometri ha da percorrere (creare prompt e inserire dentro un variabile).
-2- chiedere l'età del passeggero (creare prompt e inserire dentro un variabile).
+1- chiedere al pesseggero quanti chiometri ha da percorrere (inserire dentro un variabile).
+2- chiedere l'età del passeggero ( inserire dentro un variabile).
 3- creare variabile per il prezzo al km.
 4- creare variabile per lo sconto minorenne.
 5- creare variabile per lo sconto over 65.
