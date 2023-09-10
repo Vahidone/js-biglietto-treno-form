@@ -7,8 +7,15 @@
   min-height: 50px;
 }
 .bg_rosso {
-  background-color: #B91550;
+  background-color: #A41D21;
 }
 .bg_lightgray {
   background-color: #CCCCCC;
+}
+
+
+img {
+  width: 1315px;
+  height: 350px;
+  
 }
