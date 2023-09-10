@@ -18,5 +18,9 @@ img {
   width: 1315px;
   height: 350px;
   border-radius: 20px;
-  
+}
+
+#ticket_print {
+  height: 0;
+  transition: height 3s;
 }
